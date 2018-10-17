@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
-Author : Manasi Singh
+Author : MS
 Desc.  : Linear Equation Solver
 
 2x + 3y = 9
